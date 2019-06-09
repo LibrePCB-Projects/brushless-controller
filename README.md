@@ -1,9 +1,13 @@
-# Brushless Controller
+# STM32 Brushless Controller
 
 ## Description
 
-This is a [LibrePCB](http://librepcb.org) project!
-Just edit this file to add a description about it.
+This is a [LibrePCB](http://librepcb.org) project for a Brushless Controller
+PCB based on a STM32 microcontroller.
+
+## Preview
+
+![Board Preview](images/board.png)
 
 ## License
 
