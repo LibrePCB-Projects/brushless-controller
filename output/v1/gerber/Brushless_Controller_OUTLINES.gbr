@@ -1,0 +1,23 @@
+G04 --- HEADER BEGIN --- *
+%TF.GenerationSoftware,LibrePCB,LibrePCB,0.1.1-unstable*%
+%TF.CreationDate,2019-06-09T12:53:25*%
+%TF.ProjectId,Brushless Controller - default,345039e0-aa20-4574-aecf-6ad16ab42204,v1*%
+%TF.Part,Single*%
+%FSLAX66Y66*%
+%MOMM*%
+G01*
+G74*
+G04 --- HEADER END --- *
+G04 --- APERTURE LIST BEGIN --- *
+%ADD10C,0.001*%
+G04 --- APERTURE LIST END --- *
+G04 --- BOARD BEGIN --- *
+D10*
+X0Y0D02*
+X58000000Y0D01*
+X58000000Y16500000D01*
+X0Y16500000D01*
+X0Y0D01*
+G04 --- BOARD END --- *
+%TF.MD5,07224a51532727f3abdcfcb95f916081*%
+M02*
